@@ -1,8 +1,10 @@
-*{
-    background-color:#FFFAE6
+body{
+    background: rgb(240,229,195);
+    background: linear-gradient(90deg, rgba(240,229,195,1) 0%, rgba(227,161,195,1) 100%); 
 
 }
 .img {
+    
     display: block;
     margin-left: 5%;
     margin-right:0px;
